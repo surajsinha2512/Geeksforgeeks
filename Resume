@@ -1,1 +1,169 @@
+<!DOCTYPE>
+<html>
+    <body class="same">
+        <h3 align="center" class="here">Resume</h3>
+        <div class="row">
+        <div class="column left">
+        <img class="pic" src="https://lh3.googleusercontent.com/qud2I9yilo31Z3sv_lu3NKLN7tGJfY2DEyEV_6KmKcIse-ai2pjdnyfQ7KadXHMBE7DjbvOxJZ7jErI62IeUzFm8jTLoYW9DWz6z9WNjf6e79F5Aep7G9rmDgE30w9YYoijLz7wrsDhpBkm2Ao5JwCvubCjcPlph7rc6ennxtJQMeG-oiIM5e8ACLdDgQHK3qFozs4-Jor9RQlldsAWeD-M3l9glcIn1TjF9x6gb7C9dB9V73VlT2cDr50XC15NGaMHHraKiYEPd0QfJJsStZQ1PcVgo-45ofqaQHAX9XzBI_KDXk3qg7svAKBqhlAOWr8-PW_-31OqvQNOWoanK_FqAjnlz-JgEo9vwlPmvOeHcV7dH1O-cC7TWG36VAQrs5MTOBYFOqLJHhQQKUK1M0qr2I8gfFD2L_3D9DkLt6UZWHpfq4iRiUbbrTidkKmbW8iT88ZyLIo1J-QmfASFb8ZIiLxhLd1RAOxY8umR7dsxoozL3iX-uT-R1ZNDNSAEa1VGJp8QRSfNmOFABTLgmYQ-8NcNgdizhtcGHlYckPlMzCnGVOwIYjRluHmMk1np97qYc-QgE3muO8WxVg5L9W7PproYJdMgkk3ExZ37XzYpA_m5CWUwTx3hg6J9wJMFE6-MSCprszeSqZU7_JbymGGSjiHvt-kx83zNLHfKbhPm97QjvksoagknppY7U=w464-h695-no?authuser=0" align ="left" height="2px">
+        </div>
+        <div class="column right add">
+        <h3 class="here" align ="center">Suraj Sinha</h3>
+        <h4 class="" align="center">Full Stack Developer: -</h4>
+        <p>Seeking a position to utilize my technical skills resourcefully and innovation in an organization to
+         make significant contributions to achieve the organization’s goals as a team or as an individual.</h4>
+        </div>
+        </div>
+        <div class="row">   
+        <br>
+        <div class="column left">
+        <span class="space" align="right"><img src="https://e7.pngegg.com/pngimages/314/6/png-clipart-email-logo-email-address-computer-icons-signature-block-symbol-envelope-mail-miscellaneous-text.png" height="20px">Email-Surajsinha25121999@gmail.com</span>
+        <br>
+        <span class="space" align="right"><img src="https://c8.alamy.com/comp/RDP4Y8/smartphone-icon-cell-phone-symbol-mobile-gadget-RDP4Y8.jpg" height="23">7903177157</span>
+        <br>
+        <img class="space" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG27.png" height="22px">
+        <a href="https://www.linkedin.com/in/suraj-sinha-80b0a819b/" target="-blank">Linkedin</a>
+        <br>
+        <img class="space" src="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX28022284.jpg" height="24px">
+        <span>Delhi</span>
+    </div>
+    <div class="column right">
+        <h2 >Education</h2>  
+        <h1 class="line"></h1>
+        <h3>Bachelor of Education</h3> 
+       
+        <h3>University Institute of Technology ,The University of Burdwan</h3>
+        <h5 align="center">CGPA-72.278</h5> 
+        <br>
+    
+        <h3>Higher Secondary</h3> 
+       
+        <h3>Manav Bharti National School, Gaya</h3>
+        <h5 align="center">percentage-85.8</h5> 
+        <br>
+        <h3>Secondary</h3> 
+        <h3>Gyan Bharti Public School, Gaya</h3>
+        <h5 align="center">percentage-89.3</h5> 
+        <br>
+        <h3>Personal Project</h3>
+        <h1 class="line"></h1>
+        <h4>Online Car Selling site (01/2019 – 06/2019)</h4>
+        <h5>It is basically a full stack development in which Html and Css are used in front end and PHP used in Back end .In this website in order to serve the customer related to buying or selling of car where they register themselves to interact with each other for purchasing or selling of car .</h5>
+        <h3>College Project</h3>
+        <h1 class="line"> </h1>
+        <h4>Face Recognition and auto Attendance System using Python</h4>
+        <h5>This project is about automatic attendance of students or faculties or any employee of the
+            company by recognizing the face by using Machine Learning with Python .</h5>
+    </div>
+
+
+       <div class="column left">
+        <h3> skills</h3>
+        <h1 class="line"></h1>
+        <ul class="he">
+        <li class="he" id="skills"><span class="hey">Data Structure and Algorithm</li>
+        <li id="skills"> <span class="hey" >Core Java </span> </li>
+        <li id="skills"><span class="hey">Javascript</li>
+        <li id="skills"><span class="hey">React.js</li>
+        <li id="skills"><span class="hey">Node.js</li>
+        <li id="skills"><span class="hey">Mongodb</li>
+        <li id="skills"><span class="hey">HTML & CSS</li>
+        <li id="skills"><span class="hey" >Problem solving </li>
+        </ul>
+       
+        <h3>Languages</h3>
+        <h1 class="line"></h1>
+        <h4>English</h4>
+        <h5>Full Professional Proficiency</h5>
+        <h4>Hindi</h4>
+        <h5>Native or Bilingual Proficiency</h5>
+        <h3>Interest</h3>
+        <h1 class="line"></h1>
+        <span class="hey">Problem Solving</span>
+        <br>
+        <span class="hey">Listening Music</span>
+        <br>
+        <span class="hey">News Reading</span>
+        
+        </div>
+       
+      
+    </div>
+  
+    </body>
+</html>
+
+
+<style>
+    .education {
+      border:5px solid black;
+    }
+   .h {
+    color :red;
+    text-decoration-style: dotted;
+    
+}
+
+.here{
+    text-decoration: underline black;
+   
+       
+}
+.hey{
+    background-color:darkolivegreen;
+    border-radius : 50px;
+}
+.same {
+    background-color :rgb(231, 231, 231);
+    border : 4px
+}
+.pic {
+    max-width: 60%;
+    height: auto;
+    width: auto;
+   border-radius:100%;
+
+}
+* {
+  box-sizing: border-box;
+}
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 200px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.left {
+  width: 18%;
+}
+
+.right {
+  width: 82%;
+}
+
+.space {
+   /* margin:10px;
+    padding:10px;  */
+}
+.right.add {
+  background-color:darkolivegreen;
+  border-radius: 20px;
+}
+img {
+    padding:5px;
+}
+.line {
+    border-bottom:2px solid black;
+}
+</style>
+
+
+
 
